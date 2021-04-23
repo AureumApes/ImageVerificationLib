@@ -1,0 +1,12 @@
+/home/aureumapes/Programmierung/C#/ImageVerifikationLib/bin/Debug/net5.0/ImageVerifikationLib.deps.json
+/home/aureumapes/Programmierung/C#/ImageVerifikationLib/bin/Debug/net5.0/ImageVerifikationLib.dll
+/home/aureumapes/Programmierung/C#/ImageVerifikationLib/bin/Debug/net5.0/ref/ImageVerifikationLib.dll
+/home/aureumapes/Programmierung/C#/ImageVerifikationLib/bin/Debug/net5.0/ImageVerifikationLib.pdb
+/home/aureumapes/Programmierung/C#/ImageVerifikationLib/obj/Debug/net5.0/ImageVerifikationLib.csprojAssemblyReference.cache
+/home/aureumapes/Programmierung/C#/ImageVerifikationLib/obj/Debug/net5.0/ImageVerifikationLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/aureumapes/Programmierung/C#/ImageVerifikationLib/obj/Debug/net5.0/ImageVerifikationLib.AssemblyInfoInputs.cache
+/home/aureumapes/Programmierung/C#/ImageVerifikationLib/obj/Debug/net5.0/ImageVerifikationLib.AssemblyInfo.cs
+/home/aureumapes/Programmierung/C#/ImageVerifikationLib/obj/Debug/net5.0/ImageVerifikationLib.csproj.CoreCompileInputs.cache
+/home/aureumapes/Programmierung/C#/ImageVerifikationLib/obj/Debug/net5.0/ImageVerifikationLib.dll
+/home/aureumapes/Programmierung/C#/ImageVerifikationLib/obj/Debug/net5.0/ref/ImageVerifikationLib.dll
+/home/aureumapes/Programmierung/C#/ImageVerifikationLib/obj/Debug/net5.0/ImageVerifikationLib.pdb
