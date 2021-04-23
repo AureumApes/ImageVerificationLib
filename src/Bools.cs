@@ -2,7 +2,7 @@ using System;
 using System.Drawing;
 using System.Drawing.Imaging;
 
-namespace ImageVericationLib
+namespace ImageVericationLibrary
 {
     public class Bools
     {

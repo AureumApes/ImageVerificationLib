@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Drawing;
 
-namespace ImageVericationLib
+namespace ImageVericationLibrary
 {
     public class Main
     {
