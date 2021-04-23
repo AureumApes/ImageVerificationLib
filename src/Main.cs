@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Drawing;
 
-namespace ImageVerifikationLib
+namespace ImageVericationLib
 {
     public class Main
     {
-        public static bool VerfiyImage(String path, String type, int height, int width, int depth){
+        public static bool CheckImage(String path, String type, int height, int width, int depth){
             // ----------------------------------------------------------------------------------------------------
             Image img = Image.FromFile(path);
             // ----------------------------------------------------------------------------------------------------
