@@ -1,4 +1,4 @@
-# ImageVerificationLip
+# ImageVerificationLib
 
 ## Simple C# Library
 * Bool: VerfiyImage(String path, String type, int height, int width, int depth)
