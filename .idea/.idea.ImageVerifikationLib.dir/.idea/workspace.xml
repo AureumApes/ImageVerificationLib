@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9907530c-1c71-4301-8dde-9b4a8116f755" name="Default Changelist" comment="Fixed Namespace Name">
-      <change afterPath="$PROJECT_DIR$/src/bin/Debug/net5.0/ImageVerifikationLib.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bin/Debug/net5.0/ImageVerifikationLib.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bin/Debug/net5.0/ImageVerifikationLib.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bin/Debug/net5.0/ref/ImageVerifikationLib.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ImageVerifikationLib.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ImageVerifikationLib.dir/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9907530c-1c71-4301-8dde-9b4a8116f755" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ImageVerifikationLib.dir/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ImageVerifikationLib.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ImageVerifikationLib.dir/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ImageVerifikationLib.dir/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ImageVerifikationLib.dir/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,14 +18,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///home/aureumapes/Programmierung/C#/ImageVerifikationLib/src/Main.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/Bools.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Main.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Bools.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Bools.cs" />
       <option value="$PROJECT_DIR$/Main.cs" />
+      <option value="$PROJECT_DIR$/Test.cs" />
       <option value="$PROJECT_DIR$/src/Bools.cs" />
       <option value="$PROJECT_DIR$/src/Main.cs" />
     </changedPaths>
@@ -56,6 +56,10 @@
       <updated>1619163784876</updated>
       <workItem from="1619163809387" duration="1467000" />
       <workItem from="1619179674241" duration="2566000" />
+      <workItem from="1619187707928" duration="13000" />
+      <workItem from="1619187841376" duration="1521000" />
+      <workItem from="1619189604581" duration="1274000" />
+      <workItem from="1619451358013" duration="129000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed Namespace Name">
       <created>1619185763473</created>
@@ -64,7 +68,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619185763473</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fixed Name-Space name">
+      <created>1619188005062</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619188005062</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixed Namespace-Name">
+      <created>1619188075581</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619188075581</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,11 +100,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Fixed Namespace Name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed Namespace Name" />
+    <MESSAGE value="Fixed Name-Space name" />
+    <MESSAGE value="Fixed Namespace-Name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed Namespace-Name" />
   </component>
 </project>
